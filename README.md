@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tufail-Kalsekar, ISTQB Certified Software Tester, and Microsoft Azure Certified Administrator.
-- 👀 I’m interested in Quality Assurance, Test Automation, Regression Testing.
-- 🌱 I’m currently learning Azure DevOps
+- 👀 Interests: Quality Assurance, Test Automation.
+- 🌱 Proficiency: Testing (Manual and Automated)
 - 💞️ I’m looking to collaborate on QA Projects, DevOps Projects.
 - 📫 How to reach me kalsekar.tufail@live.com
 
